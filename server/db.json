@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "bharath",
+      "email": "bharath@email.com",
+      "password": "yourpassword"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "room":"room1",
+      "user": "bharath",
+      "content": "Hello!"
+    },
+    {
+      "id": 2,
+      "room":"room1",
+      "user": "admin",
+      "content": "Welcome!"
+    }
+  ]
+}
+
